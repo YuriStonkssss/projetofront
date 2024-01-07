@@ -1,0 +1,348 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+    cursor: pointer;
+ }
+
+ body{
+    height: 100vh;
+ }
+
+
+.logo{
+    display: flex;
+    justify-content: flex-start;
+    padding: 1%;
+    height: 20vh;
+    margin-left: 20px;
+    
+}
+
+.nav ul li{
+    list-style-type: none;
+
+}
+
+li {
+    list-style-type: none;
+    color: black;
+  }
+.nav-bar{
+    padding: 30px;
+    list-style: none;
+}
+
+.nav li{
+    list-style: none;
+}
+
+.home{
+    font-weight: bold;
+}
+
+.nav li{
+    font-size: 20px;
+}
+.lista{
+    font-size: 3vh;
+}
+
+.line{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.politicas-titúlo menor{
+    font-size: 1vh;
+}
+
+.Política{
+
+    margin: 1%;
+    font-size: 2vh;
+    margin-top: 16px;
+}
+
+.privacidade{
+    margin: 1%;
+    margin-top: 16px;
+    font-size: 2vh;
+}
+
+.nav-bar p{
+    font-size: 2vh;
+}
+
+/*IMAGENSSSS*/
+.carousel slide{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.carousel-indicators img2{
+    width: 200px;
+}
+
+.seção2{
+    text-align: start;
+    padding-left: 40px;
+    font-weight: bold;
+    font-size: 5vh;
+}
+
+
+.box{
+    width: 300px;
+    margin-right: 100px;
+
+}
+
+.container p{
+    font-size: 20px;
+}
+
+
+
+.imagemaolado3 img{
+    width: 50vw;
+    margin-left: 20px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: start;
+}
+
+.seção3{
+   margin: 100px;
+}
+
+.seta-oempreendimento{
+    margin: 20px;
+    margin: 20px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.localização{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+-----------------SEÇÃO----------------- PLANTAS*/
+.plantas{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 60px;
+    padding-top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card img{
+   width: 10px;
+}
+
+
+
+.imagensparticulas{
+    display: flex;
+    justify-content: end;
+    height: 200vh;
+}
+
+.frame{
+    display: flex;
+    justify-content: end;
+}
+
+
+
+/*FOOTEEEEEEEEEEEEEEER*/
+
+.contato{
+    display: flex;
+    justify-content: end;
+}
+
+h1{
+    display: flex;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    padding-bottom: 30px;
+    align-items: center;
+    margin: 30px;
+    margin-top: 30px;
+    border-radius: 30px solid red;
+}
+
+.input-group{
+    display: flex;
+}
+
+/* Barra de Rolagem */
+
+
+/* Fundo que corre */
+::-webkit-scrollbar-track {
+    background-color: #232C3B;
+}
+/* Fundo que corre */
+
+::-webkit-scrollbar {
+    width: 12px;
+    background: #F4F4F4;
+}
+
+/* Linha que desce */
+::-webkit-scrollbar-thumb {
+    background: #f1d500;
+}
+/* Linha que desce*/
+
+
+/* Barra de Rolagem */
+
+
